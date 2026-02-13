@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "type": "evenhub_plugin",
+  "id": "conversate-plus-hello",
+  "name": "Conversate+ Hello",
+  "version": "0.0.1",
+  "entry": "./index.js",
+  "permissions": [],
+  "ui": {
+    "kind": "card",
+    "title": "Conversate+",
+    "lines": [
+      "Hello world",
+      "If you see this, loader reads manifest"
+    ]
+  }
+}
