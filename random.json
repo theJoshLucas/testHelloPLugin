@@ -1,0 +1,5 @@
+{
+  "hello": "world",
+  "timestamp": 1700000000,
+  "note": "This is a random JSON file for testing Even Hub URL loading."
+}
